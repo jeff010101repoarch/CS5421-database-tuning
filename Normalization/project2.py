@@ -5,7 +5,7 @@
 
 
 ### IMPORTANT! Change this to your metric number for grading
-student_no = 'A0194935N' 
+student_no = 'XXXX' 
 
 ## Determine the closure of set of attribute S given the schema R and functional dependency F
 # remove the element of a list because the shallow copy of python
